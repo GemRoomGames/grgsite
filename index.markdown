@@ -60,7 +60,6 @@ feature_row4:
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:500px;
   margin: auto;
   }
-
 </style>
 <div id="mc_embed_signup">
 <form action="https://gmail.us3.list-manage.com/subscribe/post?u=37261691aba985b7cdeaf9d8b&amp;id=9059331c9e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
