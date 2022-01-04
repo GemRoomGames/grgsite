@@ -57,22 +57,8 @@ feature_row4:
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:500px;}
-  #mc_embed_signup label {
-  text-align: center;
-}
-#mc_embed_signup input.email {
-  width: 100%;
-}
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:500px;  margin:auto;}
 
-#mc_embed_signup input.button {
-  margin: auto;
-}
-
-#mc_embed_signup form {
-  width: 58%;
-  margin: auto;
-}
 </style>
 <div id="mc_embed_signup">
 <form action="https://gmail.us3.list-manage.com/subscribe/post?u=37261691aba985b7cdeaf9d8b&amp;id=9059331c9e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
