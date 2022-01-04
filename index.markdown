@@ -13,25 +13,24 @@ intro:
   - excerpt: 'Gem Room Games is Dan Phipps and Kali Lawrie - a Los Angeles, California-based game design team making weirder, funnier, and faster games and tools.'
 feature_row:
   - image_path: assets/splash/gallery-image-1-th.png
-    alt: "placeholder image 1"
+    alt: "Crowdfunding Soon!"
     title: "Nine Lives to Valhalla!"
     excerpt: "Death metal viking cats leave a wake of blood and carnage on their path to valhalla"
     url: /ninelivestovalhalla/
     btn_label: "Back It Now"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: "Gem Room Games on itch.io"
+    title: "Buy Our Games!"
+    excerpt: "You can find games, adventures, design tools, and more!"
+    url: "https://gemroomgames.itch.io"
+    btn_label: "Go To Store"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/splash/gallery-image-2-th.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
