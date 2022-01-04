@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  color: red;
+  font-family: spectral;
+}
+
+h1 {
+  color: red;
+  font-family: "metal mania"; # handles most headings
+}
+
+div {
+  color: red;
+}
+
+.feature__wrapper {
+  @include clearfix();
+  margin-bottom: 2em;
+  border-bottom: 1px solid black; # match color to backgroun in css to make lines disappear
+
+  .archive__item-title {
+    margin-bottom: 0;
+  }
+}
+
+.masthead {
+  background-color: white; # consistent masthead with rest of site
+}
+
+.initial-content {
+  color: white;
+  font-family: spectral
+}
+
+.archive__item-title {
+  margin-bottom: 0.25em;
+  font-family: "metal mania"; # this is where you change the font for the gallery titles
+  line-height: initial;
+  overflow: hidden;
+  text-overflow: ellipsis;
