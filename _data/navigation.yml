@@ -9,7 +9,12 @@ main:
   - title: "Games"
     url: https://gemroomgames.itch.io
   - title: "Merch"
+<<<<<<< HEAD
     url: https://gemroomgames.threadless.com
+=======
+    url: https://gemroomgames.threadless.com/
+
+>>>>>>> 5eb5e44c50fbd29441756d664ef4adf594736d01
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
