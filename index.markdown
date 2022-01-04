@@ -8,9 +8,9 @@ header:
   actions:
     - label: "Do It You Coward"
       url: "http://eepurl.com/hBUCjD"
-excerpt: " "
+excerpt: "Weirder, Faster, Funnier Games"
 intro:
-  - excerpt: 'Weirder, Faster, Funnier Games'
+  - excerpt: 'Gem Room Games is Dan Phipps and Kali Lawrie - a Los Angeles, California-based game design team making weirder, funnier, and faster games and tools.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
