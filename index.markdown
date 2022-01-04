@@ -19,16 +19,19 @@ feature_row:
     url: /ninelivestovalhalla/
     btn_label: "Back It Now"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/splash/gallery-image-2-th.png
     alt: "Gem Room Games on itch.io"
     title: "Buy Our Games!"
     excerpt: "You can find games, adventures, design tools, and more!"
     url: "https://gemroomgames.itch.io"
-    btn_label: "Go To Store"
+    btn_label: "Go To itch.io"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/splash/gallery-image-3-th.png
+    title: "Clothe Thyself"
+    excerpt: "Buy a shirt or a nice dice bag!"
+    url: "https://gemroomgames.threadless.com"
+    btn_label: "Go To Threadless"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/splash/gallery-image-2-th.png
     alt: "placeholder image 2"
