@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/ninelives/banner.png
   text_color: white
-  text_font: "special-elite"
+  text_font: "special elite"
   actions:
     - label: "Kickstarting Now"
       url: "/terms/"
