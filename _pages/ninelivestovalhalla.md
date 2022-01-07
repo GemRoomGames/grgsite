@@ -3,7 +3,7 @@ title: "9 Lives to Valhalla"
 layout: splash
 page_css:
   - /assets/css/ninelives.css
-permalink: /ninelivestovalhalla/
+permalink: /9livestovalhalla/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -18,7 +18,7 @@ header:
       url: https://gemroomgames.itch.io
 excerpt: "The Age of Man is Over! Now dawns the Age of Beasts!"
 intro:
-  - excerpt: 'these fucking cats amirite'
+  - excerpt: 'In the frenetic 9 Lives to Valhalla you are a death metal viking cat earning your place in the drinking halls of Valhalla by casting a wake of blood and carnage upon the blighted earth. Guided personally by DEATH, your merry band will leave a wake of ruin ending only at the hands of a truly worthy foe. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
 feature_row:
   - image_path: assets/ninelives/gallery-image-1-th.png
     image_caption: "caption if we want"

@@ -4,12 +4,12 @@ main:
     url: /about/
   - title: "Blog"
     url: /blog/
-  - title: "Nine Lives to Valhalla"
-    url: /ninelivestovalhalla/
   - title: "Games"
     url: https://gemroomgames.itch.io
   - title: "Merch"
     url: https://gemroomgames.threadless.com
+  - title: "9 Lives to Valhalla"
+    url: /9livestovalhalla/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
