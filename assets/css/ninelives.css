@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
 body {
   background-color: black;
   color: red;
-  font-family: "special elite";
+  font-family: 'Special Elite', cursive;
 }
 
 h1 {
@@ -29,7 +31,7 @@ div {
 
 .initial-content {
   color: white;
-  font-family: "special elite"
+  font-family: 'Special Elite', cursive;
 }
 
 .archive__item-title {
