@@ -1,7 +1,7 @@
 body {
   background-color: black;
   color: red;
-  font-family: spectral;
+  font-family: "special-elite";
 }
 
 h1 {
@@ -29,7 +29,7 @@ div {
 
 .initial-content {
   color: white;
-  font-family: spectral
+  font-family: "special-elite"
 }
 
 .archive__item-title {
