@@ -12,10 +12,12 @@ header:
   text_color: white
   text_font: "Special Elite"
   actions:
-    - label: "Kickstarting Now"
+    - label: "Kickstarting Soon"
       url: "/terms/"
     - label: "Preview Here"
       url: https://gemroomgames.itch.io
+    - label: Get Updates
+      url: http://eepurl.com/hBUCjD
 excerpt: "The Age of Man is Over! Now dawns the Age of Beasts!"
 intro:
   - excerpt: 'In the frenetic 9 Lives to Valhalla you are a death metal viking cat earning your place in the drinking halls of Valhalla by casting a wake of blood and carnage upon the blighted earth. Guided personally by DEATH, your merry band will leave a wake of ruin ending only at the hands of a truly worthy foe. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
@@ -37,7 +39,7 @@ intro:
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row:
   - image_path: /assets/ninelives/left-image-1-th.png
-    alt: "placeholder image 2"
+    alt: "Faster Pussycat, Kill! Kill!"
     title: "Placeholder Image Left Aligned"
     excerpt: 'An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!'
     url: "#test-link"
@@ -55,7 +57,7 @@ feature_row3:
   - image_path: /assets/ninelives/left-image-1-th.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!'
+    excerpt: 'A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -63,7 +65,7 @@ feature_row4:
   - image_path: /assets/ninelives/right-image-1-th.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!'
+    excerpt: 'Guidance on how to discuss tone, establish boundaries, and adjust situations on the fly to help all players enjoy an evening of outrageous ultra-violence.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
