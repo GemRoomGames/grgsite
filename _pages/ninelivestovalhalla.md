@@ -19,39 +19,55 @@ header:
 excerpt: "The Age of Man is Over! Now dawns the Age of Beasts!"
 intro:
   - excerpt: 'In the frenetic 9 Lives to Valhalla you are a death metal viking cat earning your place in the drinking halls of Valhalla by casting a wake of blood and carnage upon the blighted earth. Guided personally by DEATH, your merry band will leave a wake of ruin ending only at the hands of a truly worthy foe. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
+# feature_row:
+#  - image_path: assets/ninelives/gallery-image-1-th.png
+#    image_caption: "caption if we want"
+#    alt: "placeholder image 1"
+#    title: "Placeholder 1"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#  - image_path: /assets/ninelives/gallery-image-2-th.png
+#    alt: "placeholder image 2"
+#    title: "Placeholder 2"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--danger"
+#  - image_path: /assets/ninelives/gallery-image-3-th.png
+#    title: "Placeholder 3"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row:
-  - image_path: assets/ninelives/gallery-image-1-th.png
-    image_caption: "caption if we want"
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/ninelives/gallery-image-2-th.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--danger"
-  - image_path: /assets/ninelives/gallery-image-3-th.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
   - image_path: /assets/ninelives/left-image-1-th.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned'
+    excerpt: 'An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/ninelives/right-image-1-th.png
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/ninelives/right-image-1-th.png
+  - image_path: /assets/ninelives/left-image-1-th.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned'
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
+  - image_path: /assets/ninelives/right-image-1-th.png
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row5:
   - image_path: /assets/ninelives/center-image-1-th.jpg
     alt: "placeholder image 2"
     title: "Advance Praise for 9 Lives to Valhalla"
@@ -59,13 +75,15 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="feature_row5" type="center" %}
 <center><i> "Cozy rodent RPGs are cool and all, but it's about time we had a heavy metal cat game! Nine Lives to Valhalla is brutal in the best ways possible, and its simple, elegant mechanics keep things moving at the pace of a double bass drum."</i><br>
 <b>Tyler Crumrine, Possible Worlds Games</b><br>
 <br>
