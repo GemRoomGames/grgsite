@@ -54,11 +54,8 @@ feature_row3:
 feature_row4:
   - image_path: /assets/ninelives/center-image-1-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
+    title: "Advance Praise for 9 Lives to Valhalla"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -70,3 +67,5 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+<center><i> "Cozy rodent RPGs are cool and all, but it's about time we had a heavy metal cat game! Nine Lives to Valhalla is brutal in the best ways possible, and its simple, elegant mechanics keep things moving at the pace of a double bass drum."</i><br>
+<b>Tyler Rumrine, Possible Worlds Games</b>
