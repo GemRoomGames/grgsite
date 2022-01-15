@@ -3,7 +3,7 @@ title: "Gem Room Games"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.25"
+  overlay_filter: "0"
   overlay_image: /assets/splash/grgbanner.png
   actions:
     - label: "Do It You Coward"
