@@ -88,5 +88,5 @@ feature_row5:
 <b>Tyler Crumrine, Possible Worlds Games</b><br>
 <br>
 <i> "9 Lives To Valhalla is game that very much knows what it's about, and leans into it in all the right ways. Quick and to the point, you'll be telling the stories of your murder cat in no time. Not only that, but the text encourages you to bend and shape the game to fit the experience your table loves. Once you read it, you'll be dying (9 times) to play it."</i><br>
-<b>Spencer Campbell, Gila RPGs</b></br>
+<b>Spencer Campbell, Gila RPGs</b>
 </center>
