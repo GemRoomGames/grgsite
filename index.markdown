@@ -6,8 +6,10 @@ header:
   overlay_filter: "0"
   overlay_image: /assets/splash/grgbanner.png
   actions:
-    - label: "Do It You Coward"
-      url: "http://eepurl.com/hBUCjD"
+    - label: "Go to itch.io"
+      url: "https://gemroomgames.itch.io"
+    - label: "Go to drivethrurpg"
+      url: "https://www.drivethrurpg.com/browse/pub/19831/Gem-Room-Games"
 excerpt: "Weirder, Faster, Funnier Games"
 intro:
   - excerpt: 'Gem Room Games is Dan Phipps and Kali Lawrie - a Los Angeles, California-based game design team making weirder, funnier, and faster games and tools.'
