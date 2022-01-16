@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/splash/gallery-image-2-th.png
     alt: "Gem Room Games on itch.io"
     title: "Buy Our Games!"
-    excerpt: "Buy them!"
+    excerpt: "You can find games, adventures, design tools, and more!"
     url: "https://gemroomgames.itch.io"
     btn_label: "Go To itch.io"
     btn_class: "btn--primary"
@@ -60,6 +60,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
+
 <br>
 {% include feature_row %}
 
@@ -68,7 +69,7 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
-
+<br>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
