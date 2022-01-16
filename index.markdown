@@ -21,13 +21,6 @@ feature_row:
     url: /ninelivestovalhalla/
     btn_label: "Back It Now"
     btn_class: "btn--primary"
-  - image_path: /assets/splash/gallery-image-2-th.png
-    alt: "Gem Room Games on itch.io"
-    title: "Buy Our Games!"
-    excerpt: "You can find games, adventures, design tools, and more!"
-    url: "https://gemroomgames.itch.io"
-    btn_label: "Go To itch.io"
-    btn_class: "btn--primary"
   - image_path: /assets/splash/gallery-image-3-th.png
     title: "Clothe Thyself"
     excerpt: "Buy a shirt or a nice dice bag!"
