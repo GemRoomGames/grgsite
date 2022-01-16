@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/splash/gallery-image-2-th.png
     alt: "Gem Room Games on itch.io"
     title: "Buy Our Games!"
-    excerpt: "You can find them at <a href="https://gemroomgames.itch.io">itch.io</a> and <a href="https://www.drivethrurpg.com/browse/pub/19831/Gem-Room-Games">Drive Thru RPG</a>!"
+    excerpt: "Buy them!"
     url: "https://gemroomgames.itch.io"
     btn_label: "Go To itch.io"
     btn_class: "btn--primary"
