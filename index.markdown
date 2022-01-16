@@ -14,43 +14,33 @@ excerpt: "Weirder, Faster, Funnier Games"
 intro:
   - excerpt: 'Gem Room Games is Dan Phipps and Kali Lawrie - a Los Angeles, California-based game design team making weirder, funnier, and faster games and tools.'
 feature_row:
-  - image_path: assets/splash/gallery-image-1-th.png
-    alt: "Crowdfunding Soon!"
-    title: "Nine Lives to Valhalla!"
-    excerpt: "Death metal viking cats leave a wake of blood and carnage on their path to valhalla"
-    url: /ninelivestovalhalla/
-    btn_label: "Back It Now"
-    btn_class: "btn--primary"
-  - image_path: /assets/splash/gallery-image-3-th.png
-    title: "Clothe Thyself"
-    excerpt: "Buy a shirt or a nice dice bag!"
-    url: "https://gemroomgames.threadless.com"
-    btn_label: "Go To Threadless"
-    btn_class: "btn--primary"
+- image_path: /assets/splash/gallery-image-2-th.png
+  alt: "placeholder image 2"
+  title: "Placeholder Image Left Aligned"
+  excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+  url: "#test-link"
+  btn_label: "Read More"
+  btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/splash/gallery-image-2-th.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+- image_path: assets/splash/gallery-image-1-th.png
+  alt: "Crowdfunding Soon!"
+  title: "Nine Lives to Valhalla!"
+  excerpt: "Death metal viking cats leave a wake of blood and carnage on their path to valhalla"
+  url: /ninelivestovalhalla/
+  btn_label: "Back It Now"
+  btn_class: "btn--primary"
+- image_path: /assets/splash/gallery-image-3-th.png
+  title: "Clothe Thyself"
+  excerpt: "Buy a shirt or a nice dice bag!"
+  url: "https://gemroomgames.threadless.com"
+  btn_label: "Go To Threadless"
+  btn_class: "btn--primary"
+- image_path: /assets/splash/gallery-image-3-th.png
+  title: "Clothe Thyself"
+  excerpt: "Buy a shirt or a nice dice bag!"
+  url: "https://gemroomgames.threadless.com"
+  btn_label: "Go To Threadless"
+  btn_class: "btn--primary"
 ---
 
 
@@ -59,9 +49,6 @@ feature_row4:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
 <br>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
@@ -96,3 +83,13 @@ feature_row4:
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 </center>
 <!--End mc_embed_signup-->
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('gemroomgames', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support Us',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
