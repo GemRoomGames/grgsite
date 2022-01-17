@@ -9,7 +9,7 @@ excerpt: "Weirder, Faster, Funnier Games"
 intro:
   - excerpt: 'Gem Room Games is Dan Phipps and Kali Lawrie - a Los Angeles, California-based game design team making weirder, funnier, and faster games and tools.'
 feature_row:
-- image_path: /assets/splash/gallery-image-2-th.png
+- image_path: /assets/splash/grg_cat_2.png
   alt: "9 Lives to Valhalla"
   title: "Crowdfunding Soon!"
   excerpt: 'Coming soon to Zine Month: 9 Lives to Valhalla! At the dawn of The Age of Beasts, a warband of death metal viking cats led personally by DEATH leave a wake of blood and carnage against those who love the leash. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
