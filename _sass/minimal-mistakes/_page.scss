@@ -70,9 +70,7 @@ body {
 
 .page__title {
   margin-top: 0;
-  padding-top: 10%;
-  line-height: 0;
-  white-space: nowrap;
+  line-height: 1;
 
   a {
     color: $text-color;
@@ -85,9 +83,8 @@ body {
 }
 
 .page__lead {
-  font-family: $header-font-family;
-  font-size: $type-size-2;
-  white-space: nowrap;
+  font-family: $global-font-family;
+  font-size: $type-size-4;
 }
 
 .page__content {
@@ -205,11 +202,11 @@ body {
     .page__lead,
     .btn {
       color: #fff;
-      text-shadow: 3px 3px 4px rgba(#000, 0.8);
+      text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
     .page__lead {
-      max-width: $large;
+      max-width: $medium;
     }
 
     .page__title {
