@@ -16,27 +16,27 @@ intro:
 feature_row:
 - image_path: /assets/splash/gallery-image-2-th.png
   alt: "placeholder image 2"
-  title: "Placeholder Image Left Aligned"
-  excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+  title: " "
+  excerpt: 'Coming soon to Zine Month: 9 Lives to Valhalla! At the dawn of The Age of Beasts, a warband of death metal viking cats led personally by DEATH leave a wake of blood and carnage against those who love the leash. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
   url: "#test-link"
   btn_label: "Read More"
   btn_class: "btn--primary"
 feature_row2:
-- image_path: assets/splash/gallery-image-1-th.png
-  alt: "Crowdfunding Soon!"
-  title: "Nine Lives to Valhalla!"
-  excerpt: "Death metal viking cats leave a wake of blood and carnage on their path to valhalla"
-  url: /ninelivestovalhalla/
-  btn_label: "Back It Now"
+- image_path: assets/splash/grg_games.png
+  alt: "Games"
+  title: " "
+  excerpt: "The finest in tabletop games, adventures, settings, and tools"
+  url: /games/
+  btn_label: "See Our Games"
   btn_class: "btn--primary"
-- image_path: /assets/splash/gallery-image-3-th.png
-  title: "Clothe Thyself"
-  excerpt: "Buy a shirt or a nice dice bag!"
-  url: "https://gemroomgames.threadless.com"
-  btn_label: "Go To Threadless"
+- image_path: /assets/splash/grg_come_hang_out.png
+  title: " "
+  excerpt: "Read tweets, watch streams, and come by and chat"
+  url: /about/
+  btn_label: "Visit Our About Page"
   btn_class: "btn--primary"
-- image_path: /assets/splash/gallery-image-3-th.png
-  title: "Clothe Thyself"
+- image_path: /assets/splash/grg_merch.png
+  title: " "
   excerpt: "Buy a shirt or a nice dice bag!"
   url: "https://gemroomgames.threadless.com"
   btn_label: "Go To Threadless"
