@@ -20,13 +20,13 @@ feature_row2:
 - image_path: assets/splash/grg_games.png
   alt: "Games"
   title: " "
-  excerpt: "The finest in tabletop games, adventures, settings, and tools"
+  excerpt: "The finest in tabletop games, adventures, settings, and tools, available now!"
   url: /games/
   btn_label: "See Our Games"
   btn_class: "btn--primary"
 - image_path: /assets/splash/grg_come_hang_out.png
   title: " "
-  excerpt: "Read our tweets, watch our streams, and come by to chat"
+  excerpt: "Read our tweets, watch our streams, and come by our discord to chat!"
   url: /about/
   btn_label: "Visit Our About Page"
   btn_class: "btn--primary"
