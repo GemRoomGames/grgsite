@@ -72,6 +72,7 @@ body {
   margin-top: 0;
   padding-top: 10%;
   line-height: 0;
+  white-space: nowrap;
 
   a {
     color: $text-color;
@@ -86,6 +87,7 @@ body {
 .page__lead {
   font-family: $header-font-family;
   font-size: $type-size-2;
+  white-space: nowrap;
 }
 
 .page__content {
