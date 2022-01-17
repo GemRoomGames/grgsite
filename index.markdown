@@ -26,13 +26,13 @@ feature_row2:
   btn_class: "btn--primary"
 - image_path: /assets/splash/grg_come_hang_out.png
   title: " "
-  excerpt: "Read tweets, watch streams, and come by and chat"
+  excerpt: "Read our tweets, watch our streams, and come by to chat"
   url: /about/
   btn_label: "Visit Our About Page"
   btn_class: "btn--primary"
 - image_path: /assets/splash/grg_merch.png
   title: " "
-  excerpt: "Buy a shirt or a nice dice bag!"
+  excerpt: "Our Threadless shop has bags for your dice, shirts for your body, and more!"
   url: "https://gemroomgames.threadless.com"
   btn_label: "Go To Threadless"
   btn_class: "btn--primary"
