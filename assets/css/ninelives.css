@@ -15,6 +15,10 @@ div {
   color: red;
 }
 
+.button{
+  background-color: red
+}
+
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
