@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
+  - title: "About Us"
     url: /about/
   - title: "Blog"
     url: /blog/
-  - title: "Games"
+  - title: "Our Games"
     url: /games/
-  - title: "Merch"
+  - title: "Merch Shop"
     url: https://gemroomgames.threadless.com
   - title: "9 Lives to Valhalla"
     url: /9livestovalhalla/
