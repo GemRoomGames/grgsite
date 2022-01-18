@@ -16,7 +16,8 @@ div {
 }
 
 .btn {
-  color: red
+  background-color: red;
+  color: white
 }
 
 .feature__wrapper {
