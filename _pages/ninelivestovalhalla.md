@@ -14,8 +14,8 @@ header:
   actions:
     - label: "Kickstarting Soon"
       url: https://www.kickstarter.com/projects/gemroomgames/9-lives-to-valhalla
-    - label: "Preview Here"
-      url: https://gemroomgames.itch.io
+    # - label: "Preview Here"
+    #  url: https://gemroomgames.itch.io
     - label: Press Kit
       url: https://gemroomgames.itch.io/9-lives-to-valhalla-press-kit
 excerpt: "The Age of Man is Over! Now dawns the Age of Beasts!"
