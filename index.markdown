@@ -37,7 +37,7 @@ feature_row2:
   btn_class: "btn--primary"
 ---
 <center>
-## Making Weirder, Faster, Funnier Games Since 2017
+<h2>Making Weirder, Faster, Funnier Games Since 2017</h2>
 </center>
 <br>
 {% include feature_row id="feature_row" type="left" %}
