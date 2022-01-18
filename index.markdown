@@ -5,7 +5,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0"
   overlay_image: /assets/splash/grgbanner.png
-excerpt: "Weirder, Faster, Funnier Games"
 intro:
   - excerpt: 'Making Weirder, Faster, Funnier Games Since 2017'
 feature_row:
