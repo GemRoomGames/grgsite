@@ -38,7 +38,7 @@ feature_row2:
 ---
 <center>
 ## Making Weirder, Faster, Funnier Games Since 2017
-
+</center>
 <br>
 {% include feature_row id="feature_row" type="left" %}
 
