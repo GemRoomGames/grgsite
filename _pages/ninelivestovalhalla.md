@@ -13,11 +13,11 @@ header:
   text_font: "Special Elite"
   actions:
     - label: "Kickstarting Soon"
-      url: "/terms/"
+      url: https://www.kickstarter.com/projects/gemroomgames/9-lives-to-valhalla
     - label: "Preview Here"
       url: https://gemroomgames.itch.io
-    - label: Get Updates
-      url: http://eepurl.com/hBUCjD
+    - label: Press Kit
+      url: https://gemroomgames.itch.io/9-lives-to-valhalla-press-kit
 excerpt: "The Age of Man is Over! Now dawns the Age of Beasts!"
 intro:
   - excerpt: 'In the frenetic 9 Lives to Valhalla you are a death metal viking cat earning your place in the drinking halls of Valhalla by casting a wake of blood and carnage upon the blighted earth. Guided personally by DEATH, your merry band will leave a wake of ruin ending only at the hands of a truly worthy foe. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
