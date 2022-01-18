@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/splash/grgbanner.png
 excerpt: "Weirder, Faster, Funnier Games"
 intro:
-  - excerpt: 'Gem Room Games is Dan Phipps and Kali Lawrie - a Los Angeles, California-based game design team making weirder, funnier, and faster games and tools.'
+  - excerpt: 'Making Weirder, Faster, Funnier Games Since 2017'
 feature_row:
 - image_path: /assets/splash/grg_cat_2.png
   alt: "9 Lives to Valhalla"
@@ -37,7 +37,7 @@ feature_row2:
   btn_label: "Go To Threadless"
   btn_class: "btn--primary"
 ---
-
+{% include feature_row id="intro" type="center" %}
 
 <br>
 {% include feature_row id="feature_row" type="left" %}
