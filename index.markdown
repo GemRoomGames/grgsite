@@ -36,7 +36,8 @@ feature_row2:
   btn_label: "Go To Threadless"
   btn_class: "btn--primary"
 ---
-{% include feature_row id="intro" type="center" %}
+<center>
+## Making Weirder, Faster, Funnier Games Since 2017
 
 <br>
 {% include feature_row id="feature_row" type="left" %}
