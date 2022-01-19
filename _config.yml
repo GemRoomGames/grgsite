@@ -123,9 +123,9 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UCli435GI8sIpa0btltI8a9g"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/jz3XyMb6dv"
 
 # Site Footer
 footer:
@@ -145,9 +145,9 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UCli435GI8sIpa0btltI8a9g"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/jz3XyMb6dv"
 
 
 # Reading Files
