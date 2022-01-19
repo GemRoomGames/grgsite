@@ -20,7 +20,12 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-<h1 align="middle">Places You Can Follow Us!</h1>
+<h1 align="middle">You Can Follow Gem Room Games at</h1>
+<p align="middle">
+  <a href="https://twitter.com/gemroomgames"><img src="{{ site.url }}/assets/splash/twitter.png" alt="Twitter" width="300" style="margin: 10px 25px 10px 25px;"/></a>
+  <a href="https://twitch.tv/gemroomgames"><img src="{{ site.url }}/assets/splash/TwitchGlitchPurple.png" alt="Twitch" width="300" style="margin: 10px 25px 10px 25px;"/></a>
+  <a href="https://discord.gg/jz3XyMb6dv"><img src="{{ site.url }}/assets/splash/Discord-Logo-Color.png" alt="Discord" width="300" style="margin: 10px 25px 10px 25px;"/></a>
+</p><hr>
 <br>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7_dtp.css" rel="stylesheet" type="text/css">
