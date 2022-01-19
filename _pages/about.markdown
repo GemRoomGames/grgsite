@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Us"
 layout: splash
 permalink: /about/
 header:
@@ -19,3 +19,5 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+![image-center]({{ site.url }}/assets/splash/author_photo.png){: .align-center}
