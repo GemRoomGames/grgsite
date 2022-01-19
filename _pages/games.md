@@ -37,8 +37,8 @@ feature_row2:
   btn_label: "Go To Threadless"
   btn_class: "btn--primary"
 ---
-## you can find our games ag{: .text-center}
+you can find our games at
 <p align="middle">
-  <img src="/assets/games/itchio-logo-black.png" width="100" />
-  <img src="/assets/games/drivethrurpg-logo-small.png" width="100" />
+  <a href="https://gemroomgames.itch.io"><img src="/assets/games/itchio-logo-black.png" alt="itch.io" width="100" /></a>
+  <a href="https://www.drivethrurpg.com/browse/pub/19831/Gem-Room-Games"><img src="/assets/games/drivethrurpg-logo-small.png" alt="drivethrurpg" width="100" /></a>
 </p>
