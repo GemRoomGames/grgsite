@@ -109,7 +109,7 @@ author:
   email            : gemroomgames@gmail.com
   links:
     - label: "itch.io"
-      icon: "fas fa-fw fa-itch-io"
+      icon: "fab fa-fw fa-itch-io"
       url: "https://gemroomgames.itch.io"
     - label: "Youtube"
       icon: "fas fa-fw fa-link"
