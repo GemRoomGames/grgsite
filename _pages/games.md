@@ -37,9 +37,13 @@ feature_row2:
   btn_label: "Go To Threadless"
   btn_class: "btn--primary"
 ---
-<h2 align="middle">You can find our games at</h2>
+<h2 align="middle">You can find Gem Room Games at at</h2>
 <p align="middle">
   <a href="https://gemroomgames.itch.io"><img src="{{ site.url }}/assets/splash/itchio-logo-black.png" alt="itch.io" width="300" style="margin: 10px 25px 10px 25px;"/></a>
   <a href="https://www.drivethrurpg.com/browse/pub/19831/Gem-Room-Games"><img src="{{ site.url }}/assets/splash/drivethrurpg-logo-small.png" alt="drivethrurpg" width="300" style="margin: 10px 25px 10px 25px;"/></a>
 </p>
+<hr>
 {% include feature_row id="feature_row" type="left" %}
+<hr>
+<h2 align="middle">Our Extensive Portfolio</h2>
+<iframe src="https://itch.io/embed/1314521" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/the-weavers-observatory">The Weaver&#039;s Observatory by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/1073822" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/federation-hr">Federation HR by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/976411" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/neutron-axe">Neutron Axe by Gem Room Games</a></iframe>
