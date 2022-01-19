@@ -11,7 +11,7 @@ intro:
 feature_row:
 - image_path: /assets/splash/grg_cat_2.png
   alt: "9 Lives to Valhalla"
-  title: "Crowdfunding Soon!"
+  title: "9 Lives to Valhalla!"
   excerpt: 'Coming soon to Zine Month: 9 Lives to Valhalla! At the dawn of The Age of Beasts, a warband of death metal viking cats led personally by DEATH leave a wake of blood and carnage against those who love the leash. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
   url: /9livestovalhalla/
   btn_label: "Grab Your Sword!"
@@ -42,7 +42,7 @@ feature_row2:
   <a href="https://gemroomgames.itch.io"><img src="{{ site.url }}/assets/splash/itchio-logo-black.png" alt="itch.io" width="300" style="margin: 10px 25px 10px 25px;"/></a>
   <a href="https://www.drivethrurpg.com/browse/pub/19831/Gem-Room-Games"><img src="{{ site.url }}/assets/splash/drivethrurpg-logo-small.png" alt="drivethrurpg" width="300" style="margin: 10px 25px 10px 25px;"/></a>
 </p>
-<hr>
+<h2 align="middle">Featured Games</h2>
 {% include feature_row id="feature_row" type="left" %}
 <h2 align="middle">Our Extensive Portfolio</h2>
 <iframe src="https://itch.io/embed/1314521" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/the-weavers-observatory">The Weaver&#039;s Observatory by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/1073822" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/federation-hr">Federation HR by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/976411" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/neutron-axe">Neutron Axe by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/957328" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/dukkborg">DUKK BÖRG by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/593412" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/subwayrunners">Subway Runners by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/455197" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/hml">High Magic Lowlives by Gem Room Games</a></iframe>
