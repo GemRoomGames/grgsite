@@ -20,4 +20,4 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-![image-center]({{ site.url }}/assets/splash/author_photo.png){: .align-center}
+<img src="{{ site.url }}/assets/splash/Author_Photo.png" alt="Dan and Kali" style="margin: 10px 25px 10px 25px;"/>
