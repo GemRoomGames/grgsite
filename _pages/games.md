@@ -42,3 +42,4 @@ feature_row2:
   <a href="https://gemroomgames.itch.io"><img src="{{ site.url }}/assets/splash/itchio-logo-black.png" alt="itch.io" width="300" style="margin: 10px 25px 10px 25px;"/></a>
   <a href="https://www.drivethrurpg.com/browse/pub/19831/Gem-Room-Games"><img src="{{ site.url }}/assets/splash/drivethrurpg-logo-small.png" alt="drivethrurpg" width="300" style="margin: 10px 25px 10px 25px;"/></a>
 </p>
+{% include feature_row id="feature_row" type="left" %}
