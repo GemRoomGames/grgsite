@@ -20,4 +20,4 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-<center><img src="{{ site.url }}/assets/splash/Author_Photo.png" alt="Dan and Kali" style="margin: 10px 25px 10px 25px;"/></center>
+{% include figure image_path="/assets/splash/Author_Photo.png" alt="a lovely photo of Dan & Kali" caption="Dan & Kali of Gem Room Games." %}
