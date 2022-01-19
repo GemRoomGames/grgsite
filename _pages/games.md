@@ -37,7 +37,8 @@ feature_row2:
   btn_label: "Go To Threadless"
   btn_class: "btn--primary"
 ---
-games go here
-{: .text-center}
-![image-left]({{ "/assets/games/itchio-logo-black.png" | relative_url }}){: .align-left}
-![image-right]({{ "/assets//games/drivethrurpg-logo-small.png" | relative_url }}){: .align-right}
+## you can find our games ag{: .text-center}
+<p align="middle">
+  <img src="/assets/games/itchio-logo-black.png" width="100" />
+  <img src="/assets/games/drivethrurpg-logo-small.png" width="100" />
+</p>
