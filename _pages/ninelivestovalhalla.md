@@ -92,6 +92,7 @@ feature_row5:
 <i> "9 Lives To Valhalla is game that very much knows what it's about, and leans into it in all the right ways. Quick and to the point, you'll be telling the stories of your murder cat in no time. Not only that, but the text encourages you to bend and shape the game to fit the experience your table loves. Once you read it, you'll be dying (9 times) to play it."</i><br>
 <b>Spencer Campbell, Gila RPGs</b>
 </center>
+<br><br>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">

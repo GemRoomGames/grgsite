@@ -21,7 +21,7 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 <h1 align="middle">Places You Can Follow Us!</h1>
-
+<br>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
