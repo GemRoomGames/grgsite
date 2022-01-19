@@ -41,10 +41,18 @@ feature_row2:
 <p align="middle">
   <a href="https://gemroomgames.itch.io"><img src="{{ site.url }}/assets/splash/itchio-logo-black.png" alt="itch.io" width="300" style="margin: 10px 25px 10px 25px;"/></a>
   <a href="https://www.drivethrurpg.com/browse/pub/19831/Gem-Room-Games"><img src="{{ site.url }}/assets/splash/drivethrurpg-logo-small.png" alt="drivethrurpg" width="300" style="margin: 10px 25px 10px 25px;"/></a>
-</p>
+</p><hr>
 <h2 align="middle">Featured Games</h2>
 {% include feature_row id="feature_row" type="left" %}
 <h2 align="middle">Our Extensive Portfolio</h2>
 <center>
 <iframe src="https://itch.io/embed/1314521" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/the-weavers-observatory">The Weaver&#039;s Observatory by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/1073822" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/federation-hr">Federation HR by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/976411" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/neutron-axe">Neutron Axe by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/957328" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/dukkborg">DUKK BÖRG by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/593412" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/subwayrunners">Subway Runners by Gem Room Games</a></iframe> <iframe src="https://itch.io/embed/455197" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/hml">High Magic Lowlives by Gem Room Games</a></iframe>
+</center><hr>
+<h2 align="middle">Our Hexes and Settings</h2>
+<center>
+<iframe src="https://itch.io/embed/1345981" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/the-hollow-lake">The Hollow Lake by Gem Room Games</a></iframe>
 </center>
+<h2 align="middle">Our Game Design Assets</h2>
+<center>
+<iframe src="https://itch.io/embed/1019760" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/gem-room-games-technical-manual">Gem Room Games Technical Manual by Gem Room Games</a></iframe>
+</center
