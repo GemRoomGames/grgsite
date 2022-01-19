@@ -2,6 +2,9 @@
 layout: single
 title:  "Resolutions"
 date:   2022-01-02 20:30:19 -0800
+header:
+  image: /assets/images/unsplash-image-4.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 category: business
 ---
 It’s a shiny new year and we’ve got a shiny new website!
