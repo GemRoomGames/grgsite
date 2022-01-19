@@ -39,5 +39,5 @@ feature_row2:
 ---
 games go here
 {: .text-center}
-![image-left](/assets/games/itchio-logo-black.png){: .align-left}
-![image-right](/assets/games/drivethrurpg-logo-small.png){: .align-right}
+![image-left]({{ "/assets/games/itchio-logo-black.png" | relative_url }}){: .align-left}
+![image-right]({{ "/assets//games/drivethrurpg-logo-small.png" | relative_url }}){: .align-right}
