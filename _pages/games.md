@@ -39,6 +39,6 @@ feature_row2:
 ---
 you can find our games at
 <p align="middle">
-  <a href="https://gemroomgames.itch.io"><img src="{{ site.url }}/assets/splash/itchio-logo-black.png" alt="itch.io" width="300" style="margin: 1px 1px 1px 1px;"/></a>
-  <a href="https://www.drivethrurpg.com/browse/pub/19831/Gem-Room-Games"><img src="{{ site.url }}/assets/splash/drivethrurpg-logo-small.png" alt="drivethrurpg" width="300" style="margin: 1px 1px 1px 1px;"/></a>
+  <a href="https://gemroomgames.itch.io"><img src="{{ site.url }}/assets/splash/itchio-logo-black.png" alt="itch.io" width="300" style="margin: 10px 25px 10px 25px;"/></a>
+  <a href="https://www.drivethrurpg.com/browse/pub/19831/Gem-Room-Games"><img src="{{ site.url }}/assets/splash/drivethrurpg-logo-small.png" alt="drivethrurpg" width="300" style="margin: 10px 25px 10px 25px;"/></a>
 </p>
