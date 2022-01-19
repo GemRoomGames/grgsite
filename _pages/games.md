@@ -38,3 +38,6 @@ feature_row2:
   btn_class: "btn--primary"
 ---
 games go here
+{: .text-center}
+![image-left](/assets/games/logo-black-new.svg){: .align-left}
+![image-right](/assetts/games/drivethrurpg-logo-small.png){: .align-right}
