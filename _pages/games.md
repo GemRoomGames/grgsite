@@ -36,7 +36,7 @@ feature_row:
 <center>
 <iframe src="https://itch.io/embed/1019760" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/gem-room-games-technical-manual">Gem Room Games Technical Manual by Gem Room Games</a></iframe>
 </center>
-<hr>
+<hr><br>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
