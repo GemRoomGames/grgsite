@@ -55,4 +55,4 @@ feature_row2:
 <h2 align="middle">Our Game Design Assets</h2>
 <center>
 <iframe src="https://itch.io/embed/1019760" height="167" width="552" frameborder="0"><a href="https://gemroomgames.itch.io/gem-room-games-technical-manual">Gem Room Games Technical Manual by Gem Room Games</a></iframe>
-</center
+</center>
