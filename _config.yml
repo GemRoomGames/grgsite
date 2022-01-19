@@ -108,7 +108,7 @@ author:
   location         : "The Greater Los Angeles Area"
   email            : gemroomgames@gmail.com
   links:
-    - label: "itchio"
+    - label: "itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://gemroomgames.itch.io"
     - label: "DriveThru RPG"
@@ -123,14 +123,14 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UCli435GI8sIpa0btltI8a9g"
-    - label: "discord"
+    - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/jz3XyMb6dv"
 
 # Site Footer
 footer:
   links:
-    - label: "itchio"
+    - label: "itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://gemroomgames.itch.io"
     - label: "DriveThru RPG"
@@ -145,7 +145,7 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UCli435GI8sIpa0btltI8a9g"
-    - label: "discord"
+    - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/jz3XyMb6dv"
 
