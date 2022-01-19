@@ -16,26 +16,6 @@ feature_row:
   url: /9livestovalhalla/
   btn_label: "Grab Your Sword!"
   btn_class: "btn--primary"
-feature_row2:
-- image_path: assets/splash/grg_games.png
-  alt: "Games"
-  title: " "
-  excerpt: "The finest in tabletop games, adventures, settings, and tools, available now!"
-  url: /games/
-  btn_label: "See Our Games"
-  btn_class: "btn--primary"
-- image_path: /assets/splash/grg_come_hang_out.png
-  title: " "
-  excerpt: "Read our tweets, watch our streams, and come by our discord to chat!"
-  url: /about/
-  btn_label: "Visit Our About Page"
-  btn_class: "btn--primary"
-- image_path: /assets/splash/grg_merch.png
-  title: " "
-  excerpt: "Our Threadless shop has bags for your dice, shirts for your body, and more!"
-  url: "https://gemroomgames.threadless.com"
-  btn_label: "Go To Threadless"
-  btn_class: "btn--primary"
 ---
 <h1 align="middle">You can find Gem Room Games at at</h1>
 <p align="middle">
