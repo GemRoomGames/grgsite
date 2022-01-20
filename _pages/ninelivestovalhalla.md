@@ -69,7 +69,7 @@ feature_row5:
 
 {% include feature_row id="feature_row2" type="right" %}
 
-![image-left]({{ "/assets/ninelives/left-image-2-th.png" | relative_url }}){: .align-left}
+![image-right]({{ "/assets/ninelives/left-image-2-th.png" | relative_url }}){: .align-right}
 <h1>Key Features</h1>
 <ul>
   <li>An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!</li>
