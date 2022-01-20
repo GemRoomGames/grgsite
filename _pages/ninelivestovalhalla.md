@@ -54,7 +54,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/ninelives/left-image-1-th.png
+  - image_path: /assets/ninelives/left-image-2-th.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!'
