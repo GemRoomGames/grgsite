@@ -81,7 +81,17 @@ feature_row5:
 
 {% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+![image-left]({{ "/assets/ninelives/left-image-2-th.png" | relative_url }}){: .align-left}
+<ul>
+  <li>An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!</li>
+  <li>All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!</li>
+  <li>A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!</li>
+  <li>Everything you need to make magickal, armored, giant, and tricky foes on the fly, from hummingbird assassins to skeletal dragons.</li>
+  <li>Guidance on how to discuss tone, establish boundaries, and adjust situations on the fly to help all players enjoy an evening of outrageous ultra-violence.</li>
+  <li>A full pantheon of great cats, a world of strangers and traders, and plenty of treasure to drive your game!</li>
+  <li>All barely contained in a 32-page A5 staple bound zine with a full color cover.</li>
+</ul><br>
+
 
 <p align="middle">
   <img src="{{ site.url }}/assets/ninelives/advance_praise_header_trimmed.png" alt="Advance Praise for 9 Lives to Valhalla" style="margin: 10px 25px 10px 25px;"/>
