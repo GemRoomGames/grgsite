@@ -47,16 +47,16 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/ninelives/right-image-1-th.png
-    alt: " "
-    title: "Placeholder Image Right Aligned"
+    alt: "Gecko Right Aligned"
+    title: " "
     excerpt: 'Designed for fast-paced, high energy play, 9 Lives to Valhalla is a standalone, rules-light tabletop rpg for 2-6 players in the classic tradition of animal adventurers in a surprisingly dark fantasy world. It’s perfect for over-the-top livestreams, single-session games at your kitchen table, and joining your friends on a journey of brutal ferocity as you rampage through a cursed landscape against anyone who would resurrect ancient tyrannies.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/ninelives/left-image-2-th.png
-    alt: " "
-    title: "Placeholder Image Left Aligned"
+    alt: "Raven Left Aligned "
+    title: ""
     excerpt: 'A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!'
     url: "#test-link"
     btn_label: "Read More"
@@ -75,7 +75,7 @@ feature_row5:
     title: " "
 ---
 
-<center><h1>Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!</h1></center>
+<center><h1>Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!</h1></center><br>
 
 {% include feature_row id="feature_row" type="left" %}
 
