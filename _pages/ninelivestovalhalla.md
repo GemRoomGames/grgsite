@@ -89,7 +89,11 @@ feature_row5:
 <center><i> "Cozy rodent RPGs are cool and all, but it's about time we had a heavy metal cat game! Nine Lives to Valhalla is brutal in the best ways possible, and its simple, elegant mechanics keep things moving at the pace of a double bass drum."</i><br>
 <b>Tyler Crumrine, Possible Worlds Games</b><br>
 <br>
-<i> "9 Lives To Valhalla is game that very much knows what it's about, and leans into it in all the right ways. Quick and to the point, you'll be telling the stories of your murder cat in no time. Not only that, but the text encourages you to bend and shape the game to fit the experience your table loves. Once you read it, you'll be dying (9 times) to play it."</i><br>
+<i>“This game is for anyone who's looked at a cat and glimpsed the bad ass hunter-warrior that lurks in the heart of their stalwart companion. Surely in another world cats are blessed by Valhalla, favored by feline gods, and seek out glory by Death's side!<br>
+Gem Room Games has done it again, creating an evocative world and creative playground, this time inspired by heavy metal and the nine mythical lives that cats deserve!”</i><br>
+<b>Rae Nedjaji, Sword Queen Games</b><br>
+<br>
+<i> "9 Lives To Valhalla is a game that very much knows what it's about, and leans into it in all the right ways. Quick and to the point, you'll be telling the stories of your murder cat in no time. Not only that, but the text encourages you to bend and shape the game to fit the experience your table loves. Once you read it, you'll be dying (9 times) to play it."</i><br>
 <b>Spencer Campbell, Gila RPGs</b>
 </center>
 <br><br>
