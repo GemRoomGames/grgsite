@@ -41,7 +41,7 @@ feature_row:
   - image_path: /assets/ninelives/left-image-1-th.png
     alt: "Faster Pussycat, Kill! Kill!"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!'
+    excerpt: 'You are a death metal viking cat, earning your place in the drinking halls of Valhalla by casting a wake of blood and carnage upon the blighted earth in each of your 9 lives. Guided personally by DEATH, your merry band will leave a wake of ruin ending only at the hands of a truly worthy foe. Find treasures, trade with merchants, mercenaries, or ghosts, and follow DEATH to seek worthy foes, fiendish traps, and ensure your place among the greatest warriors of catkind!'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -49,7 +49,7 @@ feature_row2:
   - image_path: /assets/ninelives/right-image-1-th.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!'
+    excerpt: 'Designed for fast-paced, high energy play, 9 Lives to Valhalla is a standalone, rules-light tabletop rpg for 2-6 players in the classic tradition of animal adventurers in a surprisingly dark fantasy world. It’s perfect for over-the-top livestreams, single-session games at your kitchen table, and joining your friends on a journey of brutal ferocity as you rampage through a cursed landscape against anyone who would resurrect ancient tyrannies.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
