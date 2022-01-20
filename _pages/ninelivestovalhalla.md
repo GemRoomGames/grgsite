@@ -42,33 +42,21 @@ feature_row:
     alt: "Faster Pussycat, Kill! Kill!"
     title: " "
     excerpt: 'You are a death metal viking cat, earning your place in the drinking halls of Valhalla by casting a wake of blood and carnage upon the blighted earth in each of your 9 lives. Guided personally by DEATH, your merry band will leave a wake of ruin ending only at the hands of a truly worthy foe. Find treasures, trade with merchants, mercenaries, or ghosts, and follow DEATH to seek worthy foes, fiendish traps, and ensure your place among the greatest warriors of catkind!'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/ninelives/right-image-1-th.png
     alt: "Gecko Right Aligned"
     title: " "
     excerpt: 'Designed for fast-paced, high energy play, 9 Lives to Valhalla is a standalone, rules-light tabletop rpg for 2-6 players in the classic tradition of animal adventurers in a surprisingly dark fantasy world. It’s perfect for over-the-top livestreams, single-session games at your kitchen table, and joining your friends on a journey of brutal ferocity as you rampage through a cursed landscape against anyone who would resurrect ancient tyrannies.'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/ninelives/left-image-2-th.png
     alt: "Raven Left Aligned "
     title: ""
     excerpt: 'A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/ninelives/right-image-1-th.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'Guidance on how to discuss tone, establish boundaries, and adjust situations on the fly to help all players enjoy an evening of outrageous ultra-violence.'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/ninelives/advance_praise_header_trimmed.png
     alt: "placeholder image 2"
