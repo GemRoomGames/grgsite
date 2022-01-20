@@ -40,7 +40,7 @@ intro:
 feature_row:
   - image_path: /assets/ninelives/left-image-1-th.png
     alt: "Faster Pussycat, Kill! Kill!"
-    title: " "
+    title: "Become a Maelstrom of Havoc!"
     excerpt: 'You are a death metal viking cat, earning your place in the drinking halls of Valhalla by casting a wake of blood and carnage upon the blighted earth in each of your 9 lives. Guided personally by DEATH, your merry band will leave a wake of ruin ending only at the hands of a truly worthy foe. Find treasures, trade with merchants, mercenaries, or ghosts, and follow DEATH to seek worthy foes, fiendish traps, and ensure your place among the greatest warriors of catkind!'
 feature_row2:
   - image_path: /assets/ninelives/right-image-1-th.png
