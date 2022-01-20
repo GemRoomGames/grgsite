@@ -70,9 +70,9 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/ninelives/center-image-1-th.jpg
+  - image_path: /assets/ninelives/advance_praise_header_trimmed.png
     alt: "placeholder image 2"
-    title: "Advance Praise for 9 Lives to Valhalla"
+    title: " "
 ---
 
 {% include feature_row id="intro" type="center" %}
