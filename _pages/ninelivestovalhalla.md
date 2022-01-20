@@ -75,7 +75,7 @@ feature_row5:
     title: " "
 ---
 
-{% include feature_row id="intro" type="center" %}
+<center><h1>Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!</h1></center>
 
 {% include feature_row id="feature_row" type="left" %}
 
