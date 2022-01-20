@@ -85,7 +85,7 @@ feature_row5:
 
 {% include feature_row id="feature_row4" type="right" %}
 
-{% include feature_row id="feature_row5" type="center" %}
+{% include figure image_path="{{ site.url }}/assets/ninelives/advance_praise_header_trimmed.png" alt="Advanced Praise for 9 Lives to Valhalla" %}
 <center><i> "Cozy rodent RPGs are cool and all, but it's about time we had a heavy metal cat game! Nine Lives to Valhalla is brutal in the best ways possible, and its simple, elegant mechanics keep things moving at the pace of a double bass drum."</i><br>
 <b>Tyler Crumrine, Possible Worlds Games</b><br>
 <br>
