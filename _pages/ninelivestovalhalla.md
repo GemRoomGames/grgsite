@@ -40,14 +40,14 @@ intro:
 feature_row:
   - image_path: /assets/ninelives/left-image-1-th.png
     alt: "Faster Pussycat, Kill! Kill!"
-    title: "Placeholder Image Left Aligned"
+    title: " "
     excerpt: 'You are a death metal viking cat, earning your place in the drinking halls of Valhalla by casting a wake of blood and carnage upon the blighted earth in each of your 9 lives. Guided personally by DEATH, your merry band will leave a wake of ruin ending only at the hands of a truly worthy foe. Find treasures, trade with merchants, mercenaries, or ghosts, and follow DEATH to seek worthy foes, fiendish traps, and ensure your place among the greatest warriors of catkind!'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/ninelives/right-image-1-th.png
-    alt: "placeholder image 2"
+    alt: " "
     title: "Placeholder Image Right Aligned"
     excerpt: 'Designed for fast-paced, high energy play, 9 Lives to Valhalla is a standalone, rules-light tabletop rpg for 2-6 players in the classic tradition of animal adventurers in a surprisingly dark fantasy world. It’s perfect for over-the-top livestreams, single-session games at your kitchen table, and joining your friends on a journey of brutal ferocity as you rampage through a cursed landscape against anyone who would resurrect ancient tyrannies.'
     url: "#test-link"
@@ -55,7 +55,7 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/ninelives/left-image-2-th.png
-    alt: "placeholder image 2"
+    alt: " "
     title: "Placeholder Image Left Aligned"
     excerpt: 'A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!'
     url: "#test-link"
@@ -82,8 +82,6 @@ feature_row5:
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4" type="right" %}
 
 <p align="middle">
   <img src="{{ site.url }}/assets/ninelives/advance_praise_header_trimmed.png" alt="Advance Praise for 9 Lives to Valhalla" style="margin: 10px 25px 10px 25px;"/>
