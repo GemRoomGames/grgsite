@@ -15,6 +15,10 @@ div {
   color: red;
 }
 
+ul {
+  font-size: 0.75em;
+}
+
 .btn {
   background-color: red;
   color: white
