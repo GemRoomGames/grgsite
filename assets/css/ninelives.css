@@ -20,11 +20,6 @@ ul {
   text-align: justify;
 }
 
-li {
-  padding-left: 1em;
-  padding-right: 1em;
-}
-
 .btn {
   background-color: red;
   color: white
