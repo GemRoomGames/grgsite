@@ -18,25 +18,8 @@ header:
     #  url: https://gemroomgames.itch.io
     - label: Press Kit
       url: https://gemroomgames.itch.io/9-lives-to-valhalla-press-kit
-excerpt: "The Age of Man is Over! Now dawns the Age of Beasts!"
 intro:
   - excerpt: 'In the frenetic 9 Lives to Valhalla you are a death metal viking cat earning your place in the drinking halls of Valhalla by casting a wake of blood and carnage upon the blighted earth. Guided personally by DEATH, your merry band will leave a wake of ruin ending only at the hands of a truly worthy foe. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
-# feature_row:
-#  - image_path: assets/ninelives/gallery-image-1-th.png
-#    image_caption: "caption if we want"
-#    alt: "placeholder image 1"
-#    title: "Placeholder 1"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#  - image_path: /assets/ninelives/gallery-image-2-th.png
-#    alt: "placeholder image 2"
-#    title: "Placeholder 2"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--danger"
-#  - image_path: /assets/ninelives/gallery-image-3-th.png
-#    title: "Placeholder 3"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row:
   - image_path: /assets/ninelives/left-image-1-th.png
     alt: "Faster Pussycat, Kill! Kill!"
