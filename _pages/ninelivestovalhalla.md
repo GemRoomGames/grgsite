@@ -30,6 +30,16 @@ feature_row2:
     alt: "Gecko Right Aligned"
     title: "Fight and Die at Breakneck Speed!"
     excerpt: 'Designed for fast-paced, high energy play, 9 Lives to Valhalla is a standalone, rules-light tabletop rpg for 2-6 players in the classic tradition of animal adventurers in a surprisingly dark fantasy world. It’s perfect for over-the-top livestreams, single-session games at your kitchen table, and joining your friends on a journey of brutal ferocity as you rampage through a cursed landscape against anyone who would resurrect ancient tyrannies.'
+feature_row3:
+  - image_path: /assets/ninelives/left-image-1-th.png
+    alt: "Faster Pussycat, Kill! Kill!"
+    title: "Become a Maelstrom of Havoc!"
+    excerpt: excerpt: |
+      We do **complete property services**
+      <br>
+      from design to installation and maintenance
+      <br>
+      including beautiful landscapes and water features
 ---
 
 <center><h1>Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!</h1></center><br>
@@ -38,18 +48,19 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="left" %}
 
+{% include feature_row id="feature_row3" type="right" %}
+
 ![raven-right]({{ "/assets/ninelives/left-image-2-th.png" | relative_url }}){: style="float:right; padding-left:2em"}
 <div style="height: 1em; display: block;"></div>
 <h1>Key Features</h1>
 {: .text-right}
-<ul>
-  <li>An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!</li>
-  <li>All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!</li>
-  <li>A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!</li>
-  <li>Everything you need to make magickal, armored, giant, and tricky foes on the fly, from hummingbird assassins to skeletal dragons.</li>
-  <li>Guidance on how to discuss tone, establish boundaries, and adjust situations on the fly to help all players enjoy an evening of outrageous ultra-violence.</li>
-  <li>A full pantheon of great cats, a world of strangers and traders, and plenty of treasure to drive your game!</li>
-  <li>All barely contained in a 32-page A5 staple bound zine with a full color cover.</li>
+  <p>An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!</p>
+  <p>All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!</p>
+  <p>A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!</p>
+  <p>Everything you need to make magickal, armored, giant, and tricky foes on the fly, from hummingbird assassins to skeletal dragons.</p>
+  <p>Guidance on how to discuss tone, establish boundaries, and adjust situations on the fly to help all players enjoy an evening of outrageous ultra-violence.</p>
+  <p>A full pantheon of great cats, a world of strangers and traders, and plenty of treasure to drive your game!</p>
+  <p>All barely contained in a 32-page A5 staple bound zine with a full color cover.</p>
 </ul><br>
 
 
