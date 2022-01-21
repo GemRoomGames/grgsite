@@ -20,7 +20,7 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-<h1 align="middle">You Can Follow Gem Room Games at</h1>
+<h1 align="middle">You can find the Gem Room Games team at</h1>
 <p align="middle">
   <a href="https://twitter.com/gemroomgames"><img src="{{ site.url }}/assets/splash/twitter.png" alt="Twitter" width="300" style="margin: 10px 25px 10px 25px;"/></a>
   <a href="https://twitch.tv/gemroomgames"><img src="{{ site.url }}/assets/splash/TwitchGlitchPurple.png" alt="Twitch" width="300" style="margin: 10px 25px 10px 25px;"/></a>
