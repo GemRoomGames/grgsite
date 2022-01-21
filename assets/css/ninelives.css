@@ -18,8 +18,8 @@ div {
 ul {
   font-size: 0.8em;
   text-align: justify;
-  padding-left: gutter(1 of 12);
-  padding-right: gutter(1 of 12);
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 .btn {
