@@ -31,12 +31,12 @@ feature_row2:
     title: "Fight and Die at Breakneck Speed!"
     excerpt: 'Designed for fast-paced, high energy play, 9 Lives to Valhalla is a standalone, rules-light tabletop rpg for 2-6 players in the classic tradition of animal adventurers in a surprisingly dark fantasy world. It’s perfect for over-the-top livestreams, single-session games at your kitchen table, and joining your friends on a journey of brutal ferocity as you rampage through a cursed landscape against anyone who would resurrect ancient tyrannies.'
 feature_row3:
-  - image_path: /assets/ninelives/left-image-1-th.png
+  - image_path: /assets/ninelives/left-image-2-th.png
     alt: "Faster Pussycat, Kill! Kill!"
     title: "Become a Maelstrom of Havoc!"
-    excerpt: 'An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!
+    excerpt: 'An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!<br>
 
-All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!
+All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!<br>
 
 A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!
 
