@@ -18,6 +18,9 @@ div {
 ul {
   font-size: 0.8em;
   text-align: justify;
+}
+
+li {
   padding-left: 1em;
   padding-right: 1em;
 }
