@@ -56,7 +56,6 @@ feature_row2:
 {% include feature_row id="feature_row2" type="left" %}
 
 ![raven-right]({{ "/assets/ninelives/left-image-2-th.png" | relative_url }}){: style="float:right; padding-left:2em"}
-<br>
 <h1>Key Features</h1>
 {: .text-right}
 <ul>
