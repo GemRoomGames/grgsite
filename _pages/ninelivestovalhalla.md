@@ -30,16 +30,6 @@ feature_row2:
     alt: "Gecko Right Aligned"
     title: "Fight and Die at Breakneck Speed!"
     excerpt: 'Designed for fast-paced, high energy play, 9 Lives to Valhalla is a standalone, rules-light tabletop rpg for 2-6 players in the classic tradition of animal adventurers in a surprisingly dark fantasy world. It’s perfect for over-the-top livestreams, single-session games at your kitchen table, and joining your friends on a journey of brutal ferocity as you rampage through a cursed landscape against anyone who would resurrect ancient tyrannies.'
-feature_row3:
-  - image_path: /assets/ninelives/left-image-1-th.png
-    alt: "Faster Pussycat, Kill! Kill!"
-    title: "Become a Maelstrom of Havoc!"
-    excerpt: excerpt: |
-      We do **complete property services**
-      <br>
-      from design to installation and maintenance
-      <br>
-      including beautiful landscapes and water features
 ---
 
 <center><h1>Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!</h1></center><br>
@@ -47,8 +37,6 @@ feature_row3:
 {% include feature_row id="feature_row" type="right" %}
 
 {% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
 
 ![raven-right]({{ "/assets/ninelives/left-image-2-th.png" | relative_url }}){: style="float:right; padding-left:2em"}
 <div style="height: 1em; display: block;"></div>
