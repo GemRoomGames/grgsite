@@ -55,8 +55,6 @@ All barely contained in a 32-page A5 staple bound zine with a full color cover.'
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
 ![raven-right]({{ "/assets/ninelives/left-image-2-th.png" | relative_url }}){: style="float:right; padding-left:2em; margin-bottom:1em"}
 <div style="height: 1px; display: block;"></div>
 <h1>Key Features</h1>
