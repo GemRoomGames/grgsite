@@ -44,7 +44,7 @@ feature_row2:
 {: .text-right}
   <p class="features">An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!</p>
   <p class="features">All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!</p>
-  p class="features">A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!</p>
+  <p class="features">A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!</p>
   <p class="features">Everything you need to make magickal, armored, giant, and tricky foes on the fly, from hummingbird assassins to skeletal dragons.</p>
   <p class="features">Guidance on how to discuss tone, establish boundaries, and adjust situations on the fly to help all players enjoy an evening of outrageous ultra-violence.</p>
   <p class="features">A full pantheon of great cats, a world of strangers and traders, and plenty of treasure to drive your game!</p>
