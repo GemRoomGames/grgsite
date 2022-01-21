@@ -9,14 +9,16 @@ body {
 h1 {
   color: red;
   font-family: "metal mania";
+  margin-top: 1em;
 }
 
 div {
   color: red;
 }
 
-p {
+p.features {
   font-size: 0.8em;
+  text-align: right;
 }
 
 .btn {
