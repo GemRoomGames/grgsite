@@ -38,18 +38,17 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-![raven-right]({{ "/assets/ninelives/left-image-2-th.png" | relative_url }}){: style="float:right; padding-left:2em"}
-<div style="height: 1em; display: block;"></div>
+![raven-right]({{ "/assets/ninelives/left-image-2-th.png" | relative_url }}){: style="float:right; padding-left:2em; margin-bottom:1em"}
+<div style="height: 1px; display: block;"></div>
 <h1>Key Features</h1>
 {: .text-right}
-  <p>An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!</p>
-  <p>All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!</p>
-  <p>A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!</p>
-  <p>Everything you need to make magickal, armored, giant, and tricky foes on the fly, from hummingbird assassins to skeletal dragons.</p>
-  <p>Guidance on how to discuss tone, establish boundaries, and adjust situations on the fly to help all players enjoy an evening of outrageous ultra-violence.</p>
-  <p>A full pantheon of great cats, a world of strangers and traders, and plenty of treasure to drive your game!</p>
-  <p>All barely contained in a 32-page A5 staple bound zine with a full color cover.</p>
-</ul><br>
+  <p align="right">An original rule set designed for high speed carnage across a post-human landscape, where every roll of the dice is a life on the line - sometimes even the GM’s!</p>
+  <p align="right">All new original art depicting the inhabitants of the Age of Beasts including cat vikings, mouse knights, and leash-worshipping dog sorcerers!</p>
+  <p align="right">A full spate of blessings from the Panthera Pantheon for your Cat to earn through glorious death, including Witches Sight, Rustum’s Darting Flame, and Eyes that Burn as Stars!</p>
+  <p align="right">Everything you need to make magickal, armored, giant, and tricky foes on the fly, from hummingbird assassins to skeletal dragons.</p>
+  <p align="right">Guidance on how to discuss tone, establish boundaries, and adjust situations on the fly to help all players enjoy an evening of outrageous ultra-violence.</p>
+  <p align="right">A full pantheon of great cats, a world of strangers and traders, and plenty of treasure to drive your game!</p>
+  <p align="right">All barely contained in a 32-page A5 staple bound zine with a full color cover.</p>
 
 
 <p align="middle">
