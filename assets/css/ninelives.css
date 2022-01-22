@@ -20,6 +20,10 @@ p.features {
   font-size: 0.85em;
 }
 
+h2.archive__item-title {
+  color: red
+}
+
 .btn {
   background-color: red;
   color: white
