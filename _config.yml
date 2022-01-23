@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : Making Weirder, Faster, Funnier Games Since 2017!
 name                     : "Dan Phipps and Kali Lawrie"
 description              : "The Official Website of Gem Room Games"
-url                      : "https://gemroomgames.github.io/grgsite/"
+url                      : "https://www.gemroomgames.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "GemRoomGames/grgsite"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
