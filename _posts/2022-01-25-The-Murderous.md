@@ -15,7 +15,7 @@ category: adventure
 
 _DEATH beckons a warband of viking cats to glory, but their journey is interrupted by a storm that runs their vessel aground on a dark and mysterious island. Their cloaked companion acts as though this is a mere detour on their jounrey to face down the canine conjurers that would see an end to the Age of Beasts!_
 
-> Note: The Wreck of the Murderous is in development, and additional sections will be added and updated over the next week. Follow @gemroomgames on twitter for updates!
+> Note: The Wreck of the Murderous is in development, and additional sections will be added and updated over the next week. This was written live on stream and published early as an experiment, but until we both have an opportunity to write, edit, and possibly add artwork it should be considered more "GM Prep" than a proper adventure. Follow @gemroomgames on twitter for updates as The Wreck Of The Murderous takes shape!
 
 ![Murderous-Hexmap]({{ "/assets/images/murderousmap.png" | relative_url }}){: style="float:center; padding-left:2em; margin-bottom:1em"}
 
