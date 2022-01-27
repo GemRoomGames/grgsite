@@ -14,8 +14,8 @@ header:
   actions:
     - label: "Kickstarting Soon"
       url: https://www.kickstarter.com/projects/gemroomgames/9-lives-to-valhalla
-    # - label: "Preview Here"
-    #  url: https://gemroomgames.itch.io
+    - label: "Read the Sneak Peek"
+      url: https://gemroomgames.itch.io/9-lives-to-valhalla-sneak-peek
     - label: Press Kit
       url: https://gemroomgames.itch.io/9-lives-to-valhalla-press-kit
 intro:
