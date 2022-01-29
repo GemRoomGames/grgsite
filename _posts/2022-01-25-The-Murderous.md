@@ -107,10 +107,13 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 ## The Verdant Blade
 
 + a lush glen, untouched by the canine interlopers and their dark work. A sword lies at its center.
-+ **see**
-+ **hear**
++ **see** frogs, slugs,
++ **hear** the distant buzzing of flitting hummingbirds, the chaos of life,
 + **smell**
-+ The blade rests
++ In a shack in the woods, a Witch of Uncia named **Kathar** speaks in riddles under a wide-brimmed hat. She will request that the cats retrieve the Eye of Newt that those hummingbirds stole, and promises Absolution for all if returned. Vials of poison will be offered to those who don't claim to need Absolution, so they can get into some trouble.
++ While passing through the vegetation, hummingbird assassins will attempt to ambush the cats to attempt to drive them away from the sword. They are devout worshippers of Kandzor The Grand. They roll 2d8 and are **tricky**.
++ The blade rests at the base of the skull of a skeletal crocodile, **Kandzor The Grand**. If the cats approach, the sword will fall as the crocodile rises, and it will grab the broken blade in its jaw to fight them. Kandzor is Giant and Armored, and will roll 2d10.
++ The Cave of Kandzor The Grand contains a Dragonblood Crystal, Eye of Newt, and a Vial of Man's Blood.
 
 ## The Ouroboros
 
