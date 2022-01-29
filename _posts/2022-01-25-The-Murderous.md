@@ -57,6 +57,7 @@ Exploring The Murderous, each cat will find a personal possession of their choos
 + **feel** eyes upon you from hidden figures at the windows above
 + **see** paper drifting in the wind, blind alleys, shuffling folk who don't want trouble
 + **hear** fighting on other streets, wind howling down the road, a priest roaring the glory of lions
++ From a decent vantage point you can see a crystalized human skeleton due north, and an overgrown valley from which a giant sword emerges to the Northeast. From the top of a proper skyscraper you can see a ziggurat in the distance, obscured by the mist.
 
 ### What Can Kill You Here
 **Cliques** of frogs, ducks, rats, raccoons, and dogs in ritual leathers, military surplus, absurd formalwear, rockstar attire, futuristic plastics, or stark naked. They call themselves things like The 5th Street Fangs, The Mendicants, Death's Chosen, Maneaters, or The Pretty Lads. They travel in packs of 4 to 8 and should usually get **2d6** to roll. Particularly worthy clique members are **Tricky**. They all act like they aren't scared of Brunhilde.
@@ -79,6 +80,7 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 + **Hear** wind whistling though crumbling mausoleums, and nothing else.
 + **Smell** the faint scent of overgrown wild roses carried on the wind.
 + Following the cliff inland takes you to The Ruined City. Following it to the sea offers no easier route north.
++ From the top of the cliff you can see north past the Graves lies a lush valley. A giant sword rises out of its tangles. To the Northwest, a human skeleton encased in crystal. Beyond both, a distant Ziggurat in the mist.
 
 ### Baxter, Gecko Mercenary
 
@@ -100,7 +102,8 @@ _Coming Soon_
 _Coming Soon_
 
 ## The Ouroboros
-_Coming Soon_
+
++ A Ziggurat of glassy black stone looms, imprinted with the image of a dog with its own tail in mouth.
 
 ## Epilogue
 _Coming Soon_
