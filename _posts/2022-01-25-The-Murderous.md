@@ -107,7 +107,7 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 ## The Verdant Blade
 
 + a lush glen, untouched by the canine interlopers and their dark work. A sword lies at its center.
-+ **see** frogs, slugs,
++ **see** frogs, slugs, foxes, and other folk minding their own business. Brightly colored flowers,
 + **hear** the distant buzzing of flitting hummingbirds, the chaos of life,
 + **smell**
 + In a shack in the woods, a Witch of Uncia named **Kathar** speaks in riddles under a wide-brimmed hat. She will request that the cats retrieve the Eye of Newt that those hummingbirds stole, and promises Absolution for all if returned. Vials of poison will be offered to those who don't claim to need Absolution, so they can get into some trouble.
@@ -118,6 +118,7 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 ## The Ouroboros
 
 + A Ziggurat of glassy black stone looms, imprinted with the image of a dog with its own tail in mouth. There are dozens of pavilions and arcades leading to empty rooms. This was not of the old world, but new construction intended to be the seat of power in a new age.
++ A band of half-dead **wolf cult canines**, fox and dogs licking their wounds, have made camp near the entrance. Their assault failed against the heretics who have lost sight of the Ciborium Canidae. They will give their last Arrow of Truth to the cats if they claim to put a stop to this heresy, and to succeed where they have failed.
 
 ### The New Man
 A machine-flesh hybrid, scavenged from the Crystal Man. Wires, pipes, and chains lead behind the altar. The New Man's Left hand (blue, magick), Right Hand (red, tricky), metal skull (steel, armored), and torso (giant) each roll 2d10 and must be killed separately. A cat who ventures below the altar to the cellars below can kill the Heart of the New Man and truly destroy it. Give the heart 2d12, it's a big finish after all.
