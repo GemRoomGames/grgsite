@@ -98,6 +98,8 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 
 ## The Crystal Man
 
+> Hey, Dan here. As I'm writing this the Actual Play starts in like 3 hours so we're gonna punch up some details to the subsequent sections later! For now, gotta write fast and furious.
+
 + Dogs miners (2d6) and knights (2d8, **armored**) can be found in the caves of the crystal man, delicately extracting marrow from the semi-preserved bones.
 + **see** the blood red crystals that casts light in technicolor crimson.
 + **hear** the tinkling of condensation landing on crystals, the echoes of a fight further down the caves.
