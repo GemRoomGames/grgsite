@@ -96,20 +96,20 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 
 ## The Crystal Man
 
-> Hey, Dan here. As I'm writing this the Actual Play starts in like 3 hours so we're gonna punch up some details to the subsequent sections later! For now, gotta write fast and furious.
+> Hey, Dan here. As I'm writing this the Actual Play starts in like 3 hours so we're gonna punch up some details to the subsequent sections later! For now, gotta write fast and furious. Also my keyboard has started double-typing Ts for some reason so if there's any typos that's why.
 
 + Dogs miners (2d6) and knights (2d8, **armored**) can be found in the caves of the crystal man, delicately extracting marrow from the semi-preserved bones.
 + **see** the blood red crystals that casts light in technicolor crimson.
 + **hear** the tinkling of condensation landing on crystals, the echoes of a fight further down the caves.
-+ **taste** the iron of old, old blood on your tounge as you breathe.
++ **taste** the iron of old, old blood on your tongue as you breathe.
 * The Mouse Hero **Fitsz Willoughby-Bough** was sneaking through the caves when he was discovered, and is now fending off a trio of Dog Knights. They will recognize DEATH and the quest they are on, but be understandably wary of the cats. They will draw steel against them only if honor demands it, and otherwise be happy to trade. Seeks a caged mantis, a single coin of gold, or a spirit lantern. Knows the Ouroboros has an excellent wine cellar, where the profane devices The Incomplete Man requires to live are kept.
 
 ## The Verdant Blade
 
 + a lush glen, untouched by the canine interlopers and their dark work. A sword lies at its center.
-+ **see** frogs, slugs, foxes, and other folk minding their own business. Brightly colored flowers,
-+ **hear** the distant buzzing of flitting hummingbirds, the chaos of life,
-+ **smell**
++ **see** frogs, slugs, foxes, and other folk minding their own business. Brightly colored flowers, thorns, disappearing footpaths to Kathar's shack.
++ **hear** the distant buzzing of flitting hummingbirds, the chaos of life, the chirping of insects.
++ **smell** a riot of sweat, blood, dung, living earth.
 + In a shack in the woods, a Witch of Uncia named **Kathar** speaks in riddles under a wide-brimmed hat. She will request that the cats retrieve the Eye of Newt that those hummingbirds stole, and promises Absolution for all if returned. Vials of poison will be offered to those who don't claim to need Absolution, so they can get into some trouble.
 + While passing through the vegetation, hummingbird assassins will attempt to ambush the cats to attempt to drive them away from the sword. They are devout worshippers of Kandzor The Grand. They roll 2d8 and are **tricky**.
 + The blade rests at the base of the skull of a skeletal crocodile, **Kandzor The Grand**. If the cats approach, the sword will fall as the crocodile rises, and it will grab the broken blade in its jaw to fight them. Kandzor is Giant and Armored, and will roll 2d10.
