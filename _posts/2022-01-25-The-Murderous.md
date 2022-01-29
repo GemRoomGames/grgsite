@@ -81,6 +81,7 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 + **Smell** the faint scent of overgrown wild roses carried on the wind.
 + Following the cliff inland takes you to The Ruined City. Following it to the sea offers no easier route north.
 + From the top of the cliff you can see north past the Graves lies a lush valley. A giant sword rises out of its tangles. To the Northwest, a human skeleton encased in crystal. Beyond both, a distant Ziggurat in the mist.
++ Searching the graves can lead to the Paw of a Living Saint, a Silver Bowl, or a mournful ghost (seeks catnip, amber, rumors of the outside world. Will offer their spirit lantern, a dragonblood crystal, knowledge of the armored knights protecting The Crystal Man).
 
 ### Baxter, Gecko Mercenary
 
@@ -96,7 +97,12 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 >When fighting a foe that is both Giant and Magick, DEATH will gain an extra d6 if the attack is not Ferocious AND gain an extra d6 if the attack is not Brutal. A Great Weapon, employing both, is the ticket.
 
 ## The Crystal Man
-_Coming Soon_
+
++ Dogs miners (2d6) and knights (2d8, **armored**) can be found in the caves of the crystal man, delicately extracting marrow from the semi-preserved bones.
++ **see** the blood red crystals that casts light in technicolor crimson.
++ **hear** the tinkling of condensation landing on crystals, the echoes of a fight further down the caves.
++ **taste** the iron of old, old blood on your tounge as you breathe.
+* The Mouse Hero **Fitsz Willoughby-Bough** was sneaking through the caves when he was discovered, and is now fending off a trio of Dog Knights. 
 
 ## The Verdant Blade
 _Coming Soon_
