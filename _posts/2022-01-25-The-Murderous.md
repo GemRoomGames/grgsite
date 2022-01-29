@@ -9,7 +9,6 @@ header:
   teaser: "assets/images/viking_boat.jpg"
 category: adventure
 ---
-
 > An Adventure for 9 Lives to Valhalla
 
 _DEATH beckons a warband of viking cats to glory, but their journey is interrupted by a storm that runs their vessel aground on a dark and mysterious island. Their cloaked companion acts as though this is a mere detour on their journey to face down the canine conjurers that would see an end to the Age of Beasts!_
@@ -106,7 +105,12 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 * The Mouse Hero **Fitsz Willoughby-Bough** was sneaking through the caves when he was discovered, and is now fending off a trio of Dog Knights. They will recognize DEATH and the quest they are on, but be understandably wary of the cats. They will draw steel against them only if honor demands it, and otherwise be happy to trade. Seeks a caged mantis, a single coin of gold, or a spirit lantern. Knows the Ouroboros has an excellent wine cellar, where the profane devices The Incomplete Man requires to live are kept.
 
 ## The Verdant Blade
-_Coming Soon_
+
++ a lush glen, untouched by the canine interlopers and their dark work. A sword lies at its center.
++ **see**
++ **hear**
++ **smell**
++ The blade rests
 
 ## The Ouroboros
 
