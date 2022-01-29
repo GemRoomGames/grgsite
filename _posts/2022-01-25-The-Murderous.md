@@ -102,7 +102,7 @@ If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her
 + **see** the blood red crystals that casts light in technicolor crimson.
 + **hear** the tinkling of condensation landing on crystals, the echoes of a fight further down the caves.
 + **taste** the iron of old, old blood on your tounge as you breathe.
-* The Mouse Hero **Fitsz Willoughby-Bough** was sneaking through the caves when he was discovered, and is now fending off a trio of Dog Knights. 
+* The Mouse Hero **Fitsz Willoughby-Bough** was sneaking through the caves when he was discovered, and is now fending off a trio of Dog Knights. They will recognize DEATH and the quest they are on, but be understandably wary of the cats. They will draw steel against them only if honor demands it, and otherwise be happy to trade. Seeks a caged mantis, a single coin of gold, or a spirit lantern. Knows the Ouroboros has an excellent wine cellar, where the profane devices The Incomplete Man requires to live are kept.
 
 ## The Verdant Blade
 _Coming Soon_
