@@ -48,7 +48,7 @@ Let the players introduce their peerless warrior cats and who they were before D
 
 Much cargo was lost, the ship is beyond repair without time, materials, and an expert shipwright.
 
-Exploring The Murderous, each cat will find a personal posession of their choosing which reflects their past as well as a sack of gold and a sealed jar of catnip.
+Exploring The Murderous, each cat will find a personal possession of their choosing which reflects their past as well as a sack of gold and a sealed jar of catnip.
 
 ## The Ruined City
 
@@ -59,9 +59,13 @@ Exploring The Murderous, each cat will find a personal posession of their choosi
 + **hear** fighting on other streets, wind howling down the road, a priest roaring the glory of lions
 
 ### What Can Kill You Here
-**Cliques** of frogs, ducks, rats, raccoons, and dogs in ritual leathers, military surplus, absurd formalwear, rockstar attire, futuristic plastics, or stark naked. They call themselves things like The 5th Street Fangs, The Mendicants, Death's Chosen, Maneaters, or The Pretty Lads. They travel in packs of 4 to 8 and should usually get 2d6 to roll. Particularly worthy clique members are Tricky. They all act like they aren't scared of Brunhilde.
+**Cliques** of frogs, ducks, rats, raccoons, and dogs in ritual leathers, military surplus, absurd formalwear, rockstar attire, futuristic plastics, or stark naked. They call themselves things like The 5th Street Fangs, The Mendicants, Death's Chosen, Maneaters, or The Pretty Lads. They travel in packs of 4 to 8 and should usually get **2d6** to roll. Particularly worthy clique members are **Tricky**. They all act like they aren't scared of Brunhilde.
 
-**Brunhilde** the Coyote Queen of The Ruined City. Giant, rolls 2d8. She wears a crown of hammered iron. Her hide has scarred over the weapons left in her by cliques who failed to bring her down. The smart ones run if they know what's good for them. Has no particular grievance against cats but will attack if anything short of utmost respect is paid in her presence.
+> Cats who do not employ Cunning when dispatching Tricky foes give DEATH an extra d6!
+
+**Brunhilde** the Coyote Queen of The Ruined City. **Giant, rolls 2d8**. She wears a crown of hammered iron. Her hide has scarred over the weapons left in her by cliques who failed to bring her down. The smart ones run if they know what's good for them. Has no particular grievance against cats but will attack if anything short of utmost respect is paid in her presence.
+
+>Cats who do not employ Brutality when dispatching Giant foes give DEATH an extra d6!
 
 ### Amelia, Priestess of Leo
 Following the sound of preaching will lead to a priestess of Leo in the maze of ancient streets. She dresses in clanking iron emblazoned with the sun. She will celebrate your quest at DEATH's side and laugh at her own jokes. If you accept her hospitality and stay for mead, she will speak of a crystalized human skull where dogs mine for marrow among the bones.
@@ -69,7 +73,25 @@ Following the sound of preaching will lead to a priestess of Leo in the maze of 
 If you have Sacks of Gold, A Coward's Soul, or A Caged Mantis she will offer her Spirit Lantern, the Paw of a Living Saint, or a Silver Bowl.
 
 ## The Cliffside Graves
-_Coming Soon_
+
++ A city of the dead spilling over a black rock precipice looms over the black sand beach
++ **See** tombstones dot the cliffside at odd angles, marking bodies interred in the rock. Emptied graves. You're fairly sure one of the statues is a lizard.
++ **Hear** wind whistling though crumbling mausoleums, and nothing else.
++ **Smell** the faint scent of overgrown wild roses carried on the wind.
++ Following the cliff inland takes you to The Ruined City. Following it to the sea offers no easier route north.
+
+### Baxter, Gecko Mercenary
+
+**Baxter** Sits unnaturally still on a grave about halfway to the top. Could be mistaken for a statue. Will greet climbing cats nonchalantly, ask if they're interested in acquiring the services of a sellsword. Will accept anything of obvious monetary value, but prefers a sack of gold. Sells his Spirit Lantern and Vials of Poison.
+
+### What Can Kill You Here
+**The Unquiet Dead** are a band of animated corpses. They are **Magick** foes, with eyes glowing a radioactive green. Intelligent but wordless, they sit among the graves, awaiting living foes to add to their ranks. There are usually about 6 of them, give them 1d6 and 1d8 each.
+
+> Cats who do not employ Ferocity when dispatching Magick foes will give DEATH an extra d6!
+
+**The Self-Made Man** is a towering homunculus of stitched together flesh, made in man's image. it is **giant** and **magick**. Looks, sounds, and smells absolutely revolting. A grotesque failure of an experiment, and one that must be destroyed. Give it 2d8.
+
+>When fighting a foe that is both Giant and Magick, DEATH will gain an extra d6 if the attack is not Ferocious AND gain an extra d6 if the attack is not Brutal. A Great Weapon, employing both, is the ticket.
 
 ## The Crystal Man
 _Coming Soon_
