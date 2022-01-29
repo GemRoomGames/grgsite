@@ -109,10 +109,10 @@ _Coming Soon_
 
 ## The Ouroboros
 
-+ A Ziggurat of glassy black stone looms, imprinted with the image of a dog with its own tail in mouth.
++ A Ziggurat of glassy black stone looms, imprinted with the image of a dog with its own tail in mouth. There are dozens of pavilions and arcades leading to empty rooms. This was not of the old world, but new construction intended to be the seat of power in a new age.
 
 ### The New Man
-A machine-flesh hybrid, scavenged from the Crystal Man. Wires, pipes, and chains lead behind the altar. The New Man's Left hand (blue, magick), Right Hand (red, tricky), metal skull (steel, armored), and torso (giant) each roll 2d10 and must be killed separately. A cat who ventures below the altar to the cellars below can kill the Heart of the New Man and truly destroy it.
+A machine-flesh hybrid, scavenged from the Crystal Man. Wires, pipes, and chains lead behind the altar. The New Man's Left hand (blue, magick), Right Hand (red, tricky), metal skull (steel, armored), and torso (giant) each roll 2d10 and must be killed separately. A cat who ventures below the altar to the cellars below can kill the Heart of the New Man and truly destroy it. Give the heart 2d12, it's a big finish after all.
 
 ## Epilogue
 _Coming Soon_
