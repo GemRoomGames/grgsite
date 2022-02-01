@@ -12,7 +12,7 @@ header:
   text_color: white
   text_font: "Special Elite"
   actions:
-    - label: "Kickstarting Soon"
+    - label: "Kickstarting Now!"
       url: https://www.kickstarter.com/projects/gemroomgames/9-lives-to-valhalla
     - label: "Sneak Peek"
       url: https://gemroomgames.itch.io/9-lives-to-valhalla-sneak-peek
