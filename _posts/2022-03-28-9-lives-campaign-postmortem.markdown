@@ -1,12 +1,11 @@
 ---
 layout: single
 title:  "9 Lives to Valhalla Funding Campaign Postmortem"
-date:   2022-03-28 20:30:19 -0800
+date:   2022-03-28 00:00:00 -0800
 show_date: true
 header:
   image: /assets/ninelives/9_Lives_postmort_banner_-_DEATH_version.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  teaser: "assets/images/unsplash-image-4.jpg"
+  teaser: "assets/ninelives/9_Lives_postmort_banner_-_DEATH_version.jpg"
 category: business
 ---
 Oh wait, we never did a 9 Lives to Valhalla crowdfunding postmortem, did we? WELL LET'S DO IT
