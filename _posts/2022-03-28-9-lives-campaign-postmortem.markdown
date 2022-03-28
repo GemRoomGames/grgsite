@@ -11,24 +11,18 @@ category: business
 Oh wait, we never did a 9 Lives to Valhalla crowdfunding postmortem, did we? WELL LET'S DO IT
 
 ## Let's start with the facts.
-We started with - ok we forget, around 104 prelaunch followers on Kickstarter.
-
-We offered 3 tiers: digital, physical+digital, and all of the above + custom art & signed print.
-
-Initial funding goal: $1K. Announced stretch goal: $1.5K. Unannounced stretch goal: $2K.
-
-The campaign launched Feb 1, closed Feb 28.
-
-We funded in 2 hours. Reached the stretch goal in 4. Reached the unannounced stretch goal Day 1.
-
-We opened strong, had consistent backer growth the entire month, and moderately spiked at the close.
-
-In total 9 Lives to Valhalla had 594 backers, getting us 839% funded.
++ We started with - ok we forget, around 104 prelaunch followers on Kickstarter.
++ We offered 3 tiers: digital, physical+digital, and all of the above + custom art & signed print.
++ Initial funding goal: $1K. Announced stretch goal: $1.5K. Unannounced stretch goal: $2K.
++ The campaign launched Feb 1, closed Feb 28.
++ We funded in 2 hours. Reached the stretch goal in 4. Reached the unannounced stretch goal Day 1.
++ We opened strong, had consistent backer growth the entire month, and moderately spiked at the close.
++ In total 9 Lives to Valhalla had 594 backers, getting us 839% funded.
 
 ## Now, a transition from facts into hunches.
 We worked a lot on press, arranging appearances as early as Nov. 2021. Press kits went out in January, with follow ups when we added The Wreck of the Murderous to the rewards. We reached out to any opportunities that came up.
 
-It looks like it paid off - we had mentions in Dicebreaker, Tabletop, Cannibal Halfling, Wyrd Science, and a number of exciting videos, tiktoks, and blogs (see: https://twitter.com/GemRoomGames/status/1491859534083608595)
+It looks like it paid off - we had mentions in Dicebreaker, Tabletop, Cannibal Halfling, Wyrd Science, and a number of exciting videos, tiktoks, and blogs (see: [our twitter thread of 9 Lives press!](https://twitter.com/GemRoomGames/status/1491859534083608595))
 
 We talked about 9 Lives to Valhalla everywhere: podcasts, streams, twitter, discord, instagram, reddit, itch.io, and newsletters.
 
@@ -40,8 +34,7 @@ We launched pre-orders exactly 24 hours after the campaign concluded. There have
 ## Another transition: how do we feel?
 Great! Support for 9 Lives to Valhalla was so much more than anticipated, we're flattered, humbled, thrilled.
 
-And how do we feel about Kickstarter, and crowdfunding generally?
-
+### And how do we feel about Kickstarter, and crowdfunding generally?
 Well, glad that we've always planned to pursue diverse funding models.
 
 Sometimes it'll be crowdfunding. Sometimes a small platform will be best, sometimes a large one. Sometimes we'll want a different approach.
