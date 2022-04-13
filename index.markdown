@@ -10,7 +10,7 @@ intro:
 feature_row:
 - image_path: /assets/splash/grg_cat_2.png
   alt: "9 Lives to Valhalla"
-  title: "Crowdfunding Now!"
+  title: "Coming Soon!"
   excerpt: 'At the dawn of The Age of Beasts, a warband of death metal viking cats led personally by DEATH leave a wake of blood and carnage against those who love the leash. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
   url: /9livestovalhalla/
   btn_label: "Grab Your Sword!"
