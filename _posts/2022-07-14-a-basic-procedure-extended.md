@@ -4,9 +4,9 @@ title:  "A Basic Procedure, Extended"
 date:   2022-07-14 00:00:00 -0800
 show_date: true
 header:
-  image: /assets/images/orbits.jpg
+  image: /assets/images/orbits.jpeg
   caption: "Photo credit: [**Public Domain Review**](https://publicdomainreview.org/collection/story-of-sun-moon-stars)"
-  teaser: "assets/images/orbits.jpg"
+  teaser: "assets/images/orbits.jpeg"
 category: design
 ---
 # A Basic Procedure, Extended
