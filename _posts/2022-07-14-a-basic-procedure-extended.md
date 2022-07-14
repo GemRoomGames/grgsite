@@ -13,7 +13,7 @@ So I've been thinking a lot about the invisible procedures that underly how I GM
 
 It looks like this:
 
-![procedure-flow]({{ "/assets/images/basicprocedureflow.jpg" | relative_url }}){: style="float:center; padding-left:2em; margin-bottom:1em"}
+![procedure-flow]({{ "/assets/images/basicprocedureflow.jpg" | relative_url }})(https://www.gemroomgames.com/assets/images/basicprocedureflow.jpg){: style="float:center; padding-left:2em; margin-bottom:1em"}
 
 _Obviously_ this makes perfect sense at a glance but just for giggles and SEO I’ll write out how this works long form too! At the table we have a referee or GM, players who are passing the spotlight around, the rules of the game we’re playing, and an adventure if we’re using one.
 
