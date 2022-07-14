@@ -4,12 +4,11 @@ title:  "A Basic Procedure, Extended"
 date:   2022-07-14 00:00:00 -0800
 show_date: true
 header:
-  image: /assets/images/orbits.jpeg
+  image: /assets/images/orbitsheader.jpeg
   caption: "Photo credit: [**Public Domain Review**](https://publicdomainreview.org/collection/story-of-sun-moon-stars)"
   teaser: "assets/images/orbits.jpeg"
 category: design
 ---
-# A Basic Procedure, Extended
 So I've been thinking a lot about the invisible procedures that underly how I GM/referee a tabletop RPG. This is not my fault. Prismatic Wasteland has a writeup on [The Basic Procedure of the OSR](https://www.prismaticwasteland.com/blog/the-universal-procedure-of-the-osr), which captures an aspect of that culture of play in its description of how referees, other players, and dice interact. It also invites reflection on the baked in and invisible elements of play, and to make the implicit explicit. And so, this post builds on that one to detail something more specific to how I, personally, run games, which begins with that procedure but somewhere along the way starts taking notes from the elements baked into Blades in the Dark's [Action Roll](https://bladesinthedark.com/action-roll).
 
 It looks like this:
