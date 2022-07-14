@@ -4,9 +4,9 @@ title:  "A Basic Procedure, Extended"
 date:   2022-07-14 00:00:00 -0800
 show_date: true
 header:
-  image: /assets/images/worldtree.jpg
-  caption: "Photo credit: [**Public Domain Review**](https://publicdomainreview.org/collection/yggdrasil-the-sacred-ash-tree-of-norse-mythology)"
-  teaser: "assets/images/worldtree.jpg"
+  image: /assets/images/orbits.jpg
+  caption: "Photo credit: [**Public Domain Review**](https://publicdomainreview.org/collection/story-of-sun-moon-stars)"
+  teaser: "assets/images/orbits.jpg"
 category: design
 ---
 # A Basic Procedure, Extended
