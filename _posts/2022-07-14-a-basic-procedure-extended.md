@@ -6,7 +6,7 @@ show_date: true
 header:
   image: /assets/images/worldtree.jpg
   caption: "Photo credit: [**Public Domain Review**](https://publicdomainreview.org/collection/yggdrasil-the-sacred-ash-tree-of-norse-mythology)"
-  teaser: "assets/images/unsplash-image-4.jpg"
+  teaser: "assets/images/worldtree.jpg"
 category: design
 ---
 # A Basic Procedure, Extended
