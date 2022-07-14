@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "A Basic Procedure, Extended"
-date:   2022-07-14 20:30:19 -0800
+date:   2022-07-14 00:00:00 -0800
 show_date: true
 header:
   image: /assets/images/worldtree.jpg
