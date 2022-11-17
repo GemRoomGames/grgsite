@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Buy Our Games"
+    url: https://shop.gemroomgames.com
   - title: "About Us"
     url: /about/
   - title: "Blog"
