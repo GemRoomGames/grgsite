@@ -12,8 +12,8 @@ header:
   text_color: white
   text_font: "Special Elite"
   actions:
-    - label: "Sneak Peek"
-      url: https://gemroomgames.itch.io/9-lives-to-valhalla-sneak-peek
+    - label: "Buy Now"
+      url: https://shop.gemroomgames.com/product/9-lives-to-valhalla
     - label: Press Kit
       url: https://gemroomgames.itch.io/9-lives-to-valhalla-press-kit
 intro:
