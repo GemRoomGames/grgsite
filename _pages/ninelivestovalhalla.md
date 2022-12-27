@@ -47,7 +47,7 @@ A full pantheon of great cats, a world of strangers and traders, and plenty of t
 All barely contained in a 32-page A5 staple bound zine with a full color cover.'
 ---
 
-<center><h1>COMING SEPTEMBER 2022<br>Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!</h1></center><br>
+<center><h1>Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!</h1></center><br>
 
 {% include feature_row id="feature_row" type="right" %}
 
