@@ -10,7 +10,7 @@ intro:
 feature_row:
 - image_path: /assets/splash/grg_cat_2.png
   alt: "9 Lives to Valhalla"
-  title: "Coming Soon!"
+  title: "Out Now!"
   excerpt: 'At the dawn of The Age of Beasts, a warband of death metal viking cats led personally by DEATH leave a wake of blood and carnage against those who love the leash. Nine lives to stalk the earth! Nine times to die with sword in paw! Nine Lives to Valhalla!'
   url: /9livestovalhalla/
   btn_label: "Grab Your Sword!"
@@ -20,8 +20,8 @@ feature_row2:
   alt: "Games"
   title: " "
   excerpt: "The finest in tabletop games, adventures, settings, and tools, available now!"
-  url: /games/
-  btn_label: "See Our Games"
+  url: "https://shop.gemroomgames.com"
+  btn_label: "Buy Our Games"
   btn_class: "btn--primary"
 - image_path: /assets/splash/grg_come_hang_out.png
   title: " "
