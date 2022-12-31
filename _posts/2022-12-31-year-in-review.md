@@ -33,7 +33,7 @@ Dan also GM’ed the second-ever *9 Lives to Valhalla AP* on the Happy Jacks net
 
 Was that all? No! Mid-month we dropped the second entry to our Year of Hex + Settings, *The Wizard’s Co-Op*! There were reckless wizards, escaped monsters, untethered experiments, and even passive aggressive notes about chore charts! 
 
-![9L-funded]({{ "/assets/images/9Lfunded.jpg" | relative_url }}){: style="float:center; padding-left:2em; margin-bottom:1em"}
+![9L-funded]({{ "/assets/images/9Lfunded.png" | relative_url }}){: style="float:center; padding-left:2em; margin-bottom:1em"}
 ## MARCH
 
 With a minute to breathe, we put out our third Hex + Setting, *No Bandits Pass*. This winding mountain pass advertised a lot of things (fossils, dragon eggs, bats) but explicitly no bandits. Not one. Would we lie?
