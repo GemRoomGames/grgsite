@@ -45,6 +45,7 @@ feature_row2:
 {% include feature_row id="feature_row2" %}
 
 <br>
+<div class="ml-embedded" data-form="M2Nacx"></div>
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
