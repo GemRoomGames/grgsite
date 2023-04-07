@@ -79,7 +79,7 @@ All barely contained in a 32-page A5 staple bound zine with a full color cover.'
 <b>Spencer Campbell, Gila RPGs</b>
 </center>
 <br><br>
-
+<div class="ml-embedded" data-form="M2Nacx"></div>
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('gemroomgames', {

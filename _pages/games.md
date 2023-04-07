@@ -28,7 +28,7 @@ feature_row:
 </p><hr>
 <h1 align="middle">Featured Games</h1>
 {% include feature_row id="feature_row" type="left" %}
-
+<div class="ml-embedded" data-form="M2Nacx"></div>
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('gemroomgames', {

@@ -27,7 +27,7 @@ feature_row:
   <a href="https://discord.gg/jz3XyMb6dv"><img src="{{ site.url }}/assets/splash/Discord-Logo-Color.png" alt="Discord" width="300" style="margin: 10px 25px 10px 25px;"/></a>
 </p><hr>
 <br>
-
+<div class="ml-embedded" data-form="M2Nacx"></div>
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('gemroomgames', {
