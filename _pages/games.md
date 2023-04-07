@@ -19,7 +19,7 @@ feature_row:
 ---
 <h1 align="middle">You can find Gem Room Games at</h1>
 <p align="middle">
-  <a href="https://shop.gemroomgames.com"><img src="{{ site.url }}/assets/splash/big_cartel_logo_white.png" alt="itch.io" width="300" style="margin: 10px 25px 10px 25px;"/></a>
+  <a href="https://shop.gemroomgames.com"><img src="{{ site.url }}/assets/splash/big_cartel_logo.png" alt="shop.gemroomgames.com" width="300" style="margin: 10px 25px 10px 25px;"/></a>
 </p><hr>
 <h1 align="middle">Digital copies can be found at</h1>
 <p align="middle">
